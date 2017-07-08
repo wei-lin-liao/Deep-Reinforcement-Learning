@@ -33,15 +33,27 @@ Quest 01 episodes reward sum:
 
 ![alt text](https://github.com/wei-lin-liao/Deep-Reinforcement-Learning/blob/master/Language-Understanding-by-Text-Game/images/Quest_01_reward_sum.png)
 
+---
+
 Quest 02 episodes reward sum:
+
+---
 
 ![alt text](https://github.com/wei-lin-liao/Deep-Reinforcement-Learning/blob/master/Language-Understanding-by-Text-Game/images/Quest_02_reward_sum.png)
 
+---
+
 Quest 03 episodes reward sum:
+
+---
 
 ![alt text](https://github.com/wei-lin-liao/Deep-Reinforcement-Learning/blob/master/Language-Understanding-by-Text-Game/images/Quest_03_reward_sum.png)
 
+---
+
 Quest 04 episodes reward sum:
+
+---
 
 ![alt text](https://github.com/wei-lin-liao/Deep-Reinforcement-Learning/blob/master/Language-Understanding-by-Text-Game/images/Quest_04_reward_sum.png)
 
