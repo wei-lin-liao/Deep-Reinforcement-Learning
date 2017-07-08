@@ -9,7 +9,7 @@ For single quest testing phase , success rate of our model is 100% with 200 epsi
 
 ---
 
-Testing outcome ( 100% success rate , only argmax Q(s,a) , not epsilon-greedy ):
+Testing outcome ( 100% success rate , only argmax Q(s,a) , not epsilon-greedy )
 
 ---
 
@@ -19,7 +19,7 @@ Testing outcome ( 100% success rate , only argmax Q(s,a) , not epsilon-greedy ):
 
 ---
 
-Room position:  
+Room position
 
 ---
 
@@ -27,7 +27,7 @@ Room position:
 
 ---
 
-Quest 01 episodes reward sum:
+Quest 01 episodes reward sum
 
 ---
 
@@ -35,7 +35,7 @@ Quest 01 episodes reward sum:
 
 ---
 
-Quest 02 episodes reward sum:
+Quest 02 episodes reward sum
 
 ---
 
@@ -43,7 +43,7 @@ Quest 02 episodes reward sum:
 
 ---
 
-Quest 03 episodes reward sum:
+Quest 03 episodes reward sum
 
 ---
 
@@ -51,7 +51,7 @@ Quest 03 episodes reward sum:
 
 ---
 
-Quest 04 episodes reward sum:
+Quest 04 episodes reward sum
 
 ---
 
