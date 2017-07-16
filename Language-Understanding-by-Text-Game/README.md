@@ -17,9 +17,7 @@ Testing outcome ( 100% success rate , only argmax Q(s,a) , not epsilon-greedy )
 
 "You are bored." is the quest. "You are in ...." is the descripition of location.
 
-The goal of this quest "You are bored." is " watching TV in the living room " !!
-
-Agent only gets different rewards in the training phase of the quest.
+The goal of the quest "You are bored." is " watching TV in the living room " !!
 
 It would learn how to select correct action to get more reward by itself, so the agent would go to living room and watch TV finally in this quest.
 
