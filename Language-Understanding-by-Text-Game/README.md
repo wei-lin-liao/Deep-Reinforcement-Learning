@@ -31,7 +31,7 @@ Next time step ( next line ) , the agent encounters the new situation ( You are 
 
 ---
 
-Room position of environment 「Home World」
+Room position of the environment 「Home World」
 
 ---
 
