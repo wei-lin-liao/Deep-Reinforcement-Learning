@@ -2,7 +2,7 @@
 
 https://arxiv.org/pdf/1506.08941.pdf
 
-For single quest testing phase , success rate of our model is 100% with 200 epsisodes !
+For single quest testing phase , success rate of my implementation of model is 100% with 200 training epsisodes !
 
 ---
 
