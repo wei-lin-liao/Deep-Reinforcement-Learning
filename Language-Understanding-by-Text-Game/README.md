@@ -14,6 +14,14 @@ Deep model
 
 ---
 
+Training algorithm
+
+---
+
+![alt_text](https://github.com/wei-lin-liao/Deep-Reinforcement-Learning/blob/master/Language-Understanding-by-Text-Game/images/Training-algorithm.PNG)
+
+---
+
 Testing outcome ( 100% success rate , only argmax Q(s,a) , not epsilon-greedy )
 
 ---
