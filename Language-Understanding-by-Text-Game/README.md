@@ -6,6 +6,14 @@ For single quest testing phase , success rate of our model is 100% with 200 epsi
 
 ---
 
+Deep model
+
+---
+
+![alt_text](https://github.com/wei-lin-liao/Deep-Reinforcement-Learning/blob/master/Language-Understanding-by-Text-Game/images/LSTM-DQN.PNG)
+
+---
+
 Testing outcome ( 100% success rate , only argmax Q(s,a) , not epsilon-greedy )
 
 ---
